@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dragonBallAcricle/static/css/main.af38b066.chunk.css",
+    "main.js": "/dragonBallAcricle/static/js/main.fb67a5dc.chunk.js",
+    "main.js.map": "/dragonBallAcricle/static/js/main.fb67a5dc.chunk.js.map",
+    "runtime-main.js": "/dragonBallAcricle/static/js/runtime-main.40bc2f26.js",
+    "runtime-main.js.map": "/dragonBallAcricle/static/js/runtime-main.40bc2f26.js.map",
+    "static/js/2.c4cfbc3a.chunk.js": "/dragonBallAcricle/static/js/2.c4cfbc3a.chunk.js",
+    "static/js/2.c4cfbc3a.chunk.js.map": "/dragonBallAcricle/static/js/2.c4cfbc3a.chunk.js.map",
+    "index.html": "/dragonBallAcricle/index.html",
+    "static/css/main.af38b066.chunk.css.map": "/dragonBallAcricle/static/css/main.af38b066.chunk.css.map",
+    "static/js/2.c4cfbc3a.chunk.js.LICENSE.txt": "/dragonBallAcricle/static/js/2.c4cfbc3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40bc2f26.js",
+    "static/js/2.c4cfbc3a.chunk.js",
+    "static/css/main.af38b066.chunk.css",
+    "static/js/main.fb67a5dc.chunk.js"
+  ]
+}
