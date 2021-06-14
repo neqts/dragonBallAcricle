@@ -1,0 +1,11 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Source Serif Pro";
+  font-size: 17px;
+  line-height: 1.6em;
+  margin: 0;
+  box-sizing: border-box;
+  background: #f8f8f8;
+  color: #282828;
+}
